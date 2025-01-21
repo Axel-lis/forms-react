@@ -36,3 +36,6 @@ A modo de resumen y apuntes para futuros proyectos armé un cheatsheet de cómo 
 ## 5-Sugerencias para futuros forms
 - Añadir confirmación de contraseña
 
+## 6- En BotonArrepentimiento.jsx 
+- Acá hay otro tipo de formualario que no usa ZOD, pero verifica en tiempo real. También me gustó cómo
+resolví que al enviarlo figure un cartel y bloquee el resto
